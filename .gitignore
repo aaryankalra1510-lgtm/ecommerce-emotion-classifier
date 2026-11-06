@@ -1,0 +1,21 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Model checkpoints and results
+saved_emotion_classifier/
+emotion_model_results/
+runs/
+
+# Environment files
+.venv/
+venv/
+ENV/
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
+.pth
